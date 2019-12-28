@@ -167,12 +167,8 @@ DEPENDENCIES
   jbuilder (= 2.6.4)
   jquery-rails (= 4.3.1)
   listen (= 3.1.5)
-<<<<<<< HEAD
   pg (= 0.20.0)
   puma (= 3.9.1)
-=======
-  puma (= 3.12.2)
->>>>>>> 093a15c5da1fd501125b3c06fc78cbb4b4328015
   rails (= 5.1.6)
   sass-rails (= 5.0.6)
   spring (= 2.0.2)
